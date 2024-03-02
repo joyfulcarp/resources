@@ -1,4 +1,4 @@
-# todo
+# resources
 A collection of resources for future projects, study, or reference.
 
 ## Table of Contents
