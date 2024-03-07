@@ -4,6 +4,9 @@ A collection of resources for future projects, study, or reference.
 ## Table of Contents
 1. [Compilers](#compilers)
 2. [Graphics](#graphics)
+3. [Machine Learning](#machine-learning)
+4. [Software Design](#software-design)
+5. [Math](#math)
 
 ## Compilers
 * [Simple but Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
@@ -19,9 +22,9 @@ A collection of resources for future projects, study, or reference.
 * [Vulkan Guide](https://vkguide.dev)
 * [Vulkan Tutorial](https://vulkan-tutorial.com/Introduction)
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut)
-* [Beginning game Programming](https://lazyfoo.net/tutorials/SDL)
+* [Beginning Game Programming](https://lazyfoo.net/tutorials/SDL)
 
-## Machine Leaning
+## Machine Learning
 * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
   * And all the other videos from [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 
