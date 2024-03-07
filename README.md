@@ -7,6 +7,7 @@ A collection of resources for future projects, study, or reference.
 3. [Machine Learning](#machine-learning)
 4. [Software Design](#software-design)
 5. [Math](#math)
+6. [Hardware Design](#hardware-design)
 
 ## Compilers
 * [Simple but Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
@@ -34,3 +35,6 @@ A collection of resources for future projects, study, or reference.
 
 ## Math
 * [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier)
+
+## Hardware Design
+* [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
