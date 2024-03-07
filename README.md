@@ -6,8 +6,8 @@ A collection of resources for future projects, study, or reference.
 2. [Graphics](#graphics)
 3. [Machine Learning](#machine-learning)
 4. [Software Design](#software-design)
-5. [Math](#math)
-6. [Hardware Design](#hardware-design)
+5. [Hardware Design](#hardware-design)
+6. [Math](#math)
 
 ## Compilers
 * [Simple but Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
@@ -33,8 +33,12 @@ A collection of resources for future projects, study, or reference.
 * [Design Pattern Catalog](https://refactoring.guru/design-patterns/catalog)
 * [Refactoring Catalog](https://refactoring.guru/refactoring/catalog)
 
-## Math
-* [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier)
+### Bit Twiddling
+* [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+* Hacker's Delight - Henry S. Warren, Jr.
 
 ## Hardware Design
 * [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
+
+## Math
+* [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier)
