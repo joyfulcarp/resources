@@ -1,6 +1,8 @@
 # Resources
 A collection of resources for future projects, study, or reference.
 
+See [apps.md](#apps.md) for useful applications.
+
 ## Table of Contents
 * [Software](#software)
   * [Compilers](#compilers)
