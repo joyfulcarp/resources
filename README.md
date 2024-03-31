@@ -1,7 +1,7 @@
 # Resources
 A collection of resources for future projects, study, or reference.
 
-See [apps.md](#apps.md) for useful applications. See [audio.md](#audio.md) for
+See [apps.md](apps.md) for useful applications. See [audio.md](audio.md) for
 audio setup.
 
 ## Table of Contents
