@@ -13,7 +13,8 @@ audio setup.
   * [Bit Twiddling](#bit-twiddling)
   * [Operating Systems](#operating-systems)
 * [Hardware](#hardware)
-* [Math](#math)
+* [Version Control](#version-control)
+* [Misc](#misc)
 
 ## Software
 
@@ -51,5 +52,15 @@ audio setup.
 ## Hardware
 * [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
 
-## Math
+## Version Control
+
+### Git
+* [git p4](https://git-scm.com/docs/git-p4)
+* Monorepo utilities
+  * [Sparse checkout](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/)
+  * [Partial and shallow clone](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
+  * [Sparse index](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
+
+## Misc
 * [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier)
+* [Nikon 35mm f/1.8 DX Review](https://www.kenrockwell.com/nikon/35mm-f18.htm)
