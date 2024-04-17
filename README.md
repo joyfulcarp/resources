@@ -1,8 +1,9 @@
 # Resources
 A collection of resources for future projects, study, or reference.
 
-See [apps.md](apps.md) for useful applications. See [audio.md](audio.md) for
-audio setup.
+* [apps.md](apps.md) - Useful applications
+* [audio.md](audio.md) - Audio setup
+* [cpp.md](cpp.md) - C++ specific resources
 
 ## Table of Contents
 * [Software](#software)
