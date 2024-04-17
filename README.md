@@ -51,7 +51,13 @@ A collection of resources for future projects, study, or reference.
 * [Linux from Scratch](https://www.linuxfromscratch.org)
 
 ## Hardware
+* [abc](https://github.com/berkeley-abc/abc)
+* [cocotb](https://github.com/cocotb/cocotb)
 * [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
+* [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL)
+* [verilator](https://github.com/verilator/verilator)
+* [VTR](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
+* [yosys](https://github.com/YosysHQ/yosys)
 
 ## Version Control
 
