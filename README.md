@@ -47,6 +47,11 @@ A collection of resources for future projects, study, or reference.
 * [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 * Hacker's Delight - Henry S. Warren, Jr.
 
+### Pseudo-Random Number Generators
+* [How to Test with PractRand](https://www.pcg-random.org/posts/how-to-test-with-practrand.html)
+* [PCG](https://www.pcg-random.org/index.html)
+* [xoroshiro and PRNG shootout](https://prng.di.unimi.it/)
+
 ### Operating Systems
 * [Linux from Scratch](https://www.linuxfromscratch.org)
 
