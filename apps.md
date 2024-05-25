@@ -9,7 +9,9 @@ but other apps are funded by donations.
 * [Audacity](https://www.audacityteam.org/) - Audio editing and recording
 * [AutoHotkey](https://www.autohotkey.com/) - Scripted macros
   * [Pulover's Macro Creator](https://www.macrocreator.com/) - Macro and script generator based off of AutoHotkey
+* [Blender](https://www.blender.org/) - 3D modeling and more
 * [DaVinci Resolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) - Video editing and color grading
+* [darktable](https://www.darktable.org/) - Image processing
 * [Ditto](https://github.com/sabrogden/Ditto) - Clipboard manager
 * [Everything](https://www.voidtools.com/) - File indexing and search
 * [GIMP](https://www.gimp.org/) - Image manipulation
