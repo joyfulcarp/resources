@@ -9,6 +9,7 @@ but other apps are funded by donations.
 * [Audacity](https://www.audacityteam.org/) - Audio editing and recording
 * [AutoHotkey](https://www.autohotkey.com/) - Scripted macros
   * [Pulover's Macro Creator](https://www.macrocreator.com/) - Macro and script generator based off of AutoHotkey
+* [DaVinci Resolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) - Video editing and color grading
 * [Ditto](https://github.com/sabrogden/Ditto) - Clipboard manager
 * [Everything](https://www.voidtools.com/) - File indexing and search
 * [GIMP](https://www.gimp.org/) - Image manipulation
@@ -16,6 +17,7 @@ but other apps are funded by donations.
 * [IrfanView](https://www.irfanview.com/) - Graphic viewer
 * [Keepass](https://keepass.info/) - Password manager
 * [Krita](https://krita.org/en/) - Painting
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Video and audio metadata viewer
 * [MusicBee](https://www.getmusicbee.com/) - Music manager and player
 * [NAPS2](https://www.naps2.com/) - PDF scanner
 * [Notepad++](https://notepad-plus-plus.org/) - Text editor
